@@ -8,3 +8,4 @@
 - Plot
 - Groupby and Aggregate
 - Concatenate and Merge
+- Time Series
